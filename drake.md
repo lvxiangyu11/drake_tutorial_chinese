@@ -272,6 +272,11 @@ controller.get_output_port_control() # 获取控制输出的输出端口
 ##### AddMultibodyPlantSceneGraph
 - 用于添加多体植物和场景图
 
+#### inverse_kinematics
+
+##### DifferentialInverseKinematicsParameters
+##### DifferentialInverseKinematicsStatus
+##### DoDifferentialInverseKinematics
 
 ### math
 
@@ -297,6 +302,24 @@ controller.get_output_port_control() # 获取控制输出的输出端口
 pendulum.get_input_port()
 pendulum.get_output_port()
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
